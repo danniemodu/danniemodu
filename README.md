@@ -22,7 +22,7 @@ I'm a passionate developer currently learning **React** and building cool **Java
 ### 🛠️ My Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+![React.js](https://img.shields.io/badge/React.js-339933?style=for-the-badge&logo=reactdotjs&logoColor=white)
 
 ---
 
